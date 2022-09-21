@@ -1,0 +1,29 @@
+services:
+  vasudocker:
+    build:
+      context: C:\Users\vasu\Desktop\Docker Projects\VasuDocker
+      dockerfile: VasuDocker/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: vasudocker
+    ports:
+    - target: 80
+    - target: 443
+    volumes:
+    - /c/Users/vasu/AppData/Roaming/ASP.NET/Https:/root/.aspnet/https:ro
+    - /c/Users/vasu/AppData/Roaming/Microsoft/UserSecrets:/root/.microsoft/usersecrets:ro
+  vasudocker2:
+    build:
+      context: C:\Users\vasu\Desktop\Docker Projects\VasuDocker
+      dockerfile: VasuDocker2/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_URLS: https://+:443;http://+:80
+    image: vasudocker2
+    ports:
+    - target: 80
+    - target: 443
+    volumes:
+    - /c/Users/vasu/AppData/Roaming/ASP.NET/Https:/root/.aspnet/https:ro
+    - /c/Users/vasu/AppData/Roaming/Microsoft/UserSecrets:/root/.microsoft/usersecrets:ro
+version: '3.4'

@@ -1,0 +1,15 @@
+version: '3.4'
+
+services:
+  vasudocker:
+    image: vasudocker
+    build:
+      context: .
+      dockerfile: VasuDocker/Dockerfile
+
+  vasudocker2:
+    image: vasudocker2
+    build:
+      context: .
+      dockerfile: VasuDocker2/Dockerfile
+
