@@ -8,8 +8,12 @@ on:
 
   workflow_dispatch:
     inputs:
-      action:
-        type: choice
+      logLevel:
+        description: 'Log level'
+        required: true
+        default: 'warning'
+      tags: 
+        description: 'Test scenario'
 
 jobs:
 
