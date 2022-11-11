@@ -39,7 +39,7 @@ namespace VasuDocker.Controllers
         
         [HttpGet]
         [Route("success")]
-        public string Vasu()
+        public string VasuCopy()
         {
             return "Success";
         }
