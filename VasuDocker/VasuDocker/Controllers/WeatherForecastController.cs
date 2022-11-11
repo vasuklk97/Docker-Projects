@@ -36,5 +36,12 @@ namespace VasuDocker.Controllers
         {
             return "Vasu";
         }
+        
+        [HttpGet]
+        [Route("success")]
+        public string Vasu()
+        {
+            return "Success";
+        }
     }
 }
