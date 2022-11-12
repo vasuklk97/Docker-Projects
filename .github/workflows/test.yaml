@@ -1,0 +1,34 @@
+# This workflow will build a .NET project
+# For more information see: https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-net
+
+name: Testing
+
+on:
+#   push:
+#     branches: [ "master" ]
+#   pull_request:
+#     branches: [ "master" ]
+
+  workflow_dispatch:
+    inputs:
+      logLevel:
+        description: 'Log level'
+        required: true
+        default: 'good'
+
+jobs:
+ variables:
+  - name: one
+    value: initialValue 
+
+  steps:
+    - script: |
+        echo ${{ variables.one }} # outputs initialValue
+        echo $(one)
+      displayName: First variable pass
+    - bash: echo "##vso[task.setvariable variable=one]secondValue"
+      displayName: Set new variable value
+    - script: |
+        echo ${{ variables.one }} # outputs initialValue
+        echo $(one) # outputs secondValue
+      displayName: Second variable pass
