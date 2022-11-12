@@ -22,7 +22,10 @@ jobs:
     steps:
       - name: Group of log lines
         run: |
-            echo "Vasu"
-            name=$(Vishnu)
-            echo "$name"
+          echo '::warning:: This is a warning message, to demonstrate that commands are being processed.'
+          stopMarker=$(uuidgen)
+          echo "::stop-commands::$stopMarker"
+          echo '::warning:: This will NOT be rendered as a warning, because stop-commands has been invoked.'
+          echo "::$stopMarker::"
+          echo '::warning:: This is a warning again, because stop-commands has been turned off.'
 
