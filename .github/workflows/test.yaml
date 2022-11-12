@@ -21,5 +21,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Group of log lines
-        run: echo "::error file=app.js,line=1::Missing semicolon"
+        run: |
+            echo "::group::My Family"
+            echo "Vajendra Rao"
+            echo "Vanishree"
+            echo "Vasu"
+            echo "Vishnu"
+            echo "::endgroup::"
 
