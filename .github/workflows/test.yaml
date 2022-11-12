@@ -21,11 +21,5 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Group of log lines
-        run: |
-          echo '::warning:: This is a warning message, to demonstrate that commands are being processed.'
-          stopMarker=$(uuidgen)
-          echo "::stop-commands::$stopMarker"
-          echo '::warning:: This will NOT be rendered as a warning, because stop-commands has been invoked.'
-          echo "::$stopMarker::"
-          echo '::warning:: This is a warning again, because stop-commands has been turned off.'
+        run: echo "::error file=app.js,line=1::Missing semicolon"
 
