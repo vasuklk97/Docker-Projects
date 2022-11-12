@@ -21,7 +21,8 @@ jobs:
     runs-on: ubuntu-latest
     env:
       MY_NAME: "Mona The Octocat"
+      tst: "What is this?"
     steps:
       - name: bash-version
-        run: echo "$MY_NAME"
+        run: echo "$MY_NAME" + '$tst"
 
