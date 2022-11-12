@@ -23,4 +23,6 @@ jobs:
       - name: Group of log lines
         run: |
             echo "Vasu"
+            name=$(Vishnu)
+            echo "$name"
 
