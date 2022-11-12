@@ -42,3 +42,12 @@ jobs:
           context: ./VasuDocker/VasuDocker
           push: true
           tags: vasuklk/vasudocker:latest
+          
+      -
+        name: Kubernetes Deployment
+        uses: Azure/k8s-deploy@v3.1
+        with:
+          namespace: 'default'
+          manifests: |
+            VasuDocker/deployment.yaml
+          images: 'vasuklk/vasudocker:latest'
