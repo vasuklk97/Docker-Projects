@@ -37,7 +37,7 @@ jobs:
           password: ${{ secrets.DOCKERHUB_TOKEN }}
       -
         name: Build and push to Dockerhub
-        working-directory: VasuDocker/VasuDocker
+        working-directory: VasuDocker
         run: |
           docker build -f VasuDocker/Dockerfile .
 #         uses: docker/build-push-action@v3
