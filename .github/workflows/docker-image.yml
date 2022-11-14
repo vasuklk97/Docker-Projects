@@ -40,6 +40,6 @@ jobs:
         uses: docker/build-push-action@v3
         with:
           context: .
-          file: ./VasuDocker/VasuDocker/.
+          file: ./VasuDocker/VasuDocker/Dockerfile
           push: true
           tags: vasuklk/vasudocker:1.1
