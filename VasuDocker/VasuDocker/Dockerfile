@@ -7,7 +7,7 @@ EXPOSE 443
 
 FROM mcr.microsoft.com/dotnet/sdk:6.0 AS build
 WORKDIR /src
-COPY VasuDocker/VasuDocker.csproj VasuDocker/
+COPY VasuDocker/VasuDocker/VasuDocker.csproj VasuDocker/
 # COPY VasuDocker2/VasuDocker2.csproj VasuDocker2/
 RUN dotnet restore "VasuDocker/VasuDocker.csproj"
 COPY . .
