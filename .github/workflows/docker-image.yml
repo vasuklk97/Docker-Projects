@@ -39,7 +39,7 @@ jobs:
         name: Build and push to Dockerhub
         working-directory: VasuDocker/VasuDocker
         run: |
-          docker build .
+          docker build -f VasuDocker/Dockerfile .
 #         uses: docker/build-push-action@v3
 #         with:
 #           context: .
