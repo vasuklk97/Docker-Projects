@@ -39,7 +39,7 @@ jobs:
         name: Build and push to Dockerhub
         uses: docker/build-push-action@v3
         with:
-          context: ./VasuDocker
+          context: .
           file: ./VasuDocker/VasuDocker/.
           push: true
           tags: vasuklk/vasudocker:1.1
