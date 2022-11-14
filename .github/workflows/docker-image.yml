@@ -37,12 +37,12 @@ jobs:
           password: ${{ secrets.DOCKERHUB_TOKEN }}
       -
         name: Build and push to Dockerhub
-        working-directory: VasuDocker
-        run: |
-          docker build -f VasuDocker/Dockerfile .
-#         uses: docker/build-push-action@v3
-#         with:
-#           context: .
-#           file: ./VasuDocker/VasuDocker/Dockerfile
-#           push: true
-#           tags: vasuklk/vasudocker:1.1
+#         working-directory: VasuDocker
+#         run: |
+#           docker build -f VasuDocker/Dockerfile .
+        uses: docker/build-push-action@v3
+        with:
+          context: .
+          file: ./VasuDocker/VasuDocker/Dockerfile
+          push: true
+          tags: vasuklk/vasudocker:1.1
