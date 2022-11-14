@@ -1,8 +1,8 @@
 name: Docker Image CI
 
 on:
-#   push:
-#     branches: [ "master" ]
+  push:
+    branches: [ "master" ]
 #   pull_request:
 #     branches: [ "master" ]
 
@@ -40,5 +40,6 @@ jobs:
         uses: docker/build-push-action@v3
         with:
           context: ./VasuDocker
+          file: /VasuDocker/.
           push: true
           tags: vasuklk/vasudocker:1.1
