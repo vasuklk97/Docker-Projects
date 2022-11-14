@@ -10,7 +10,7 @@ WORKDIR /src
 COPY VasuDocker/VasuDocker.csproj VasuDocker/
 COPY VasuDocker2/VasuDocker2.csproj VasuDocker2/
 RUN dotnet restore "VasuDocker/VasuDocker.csproj"
-COPY ./VasuDocker .
+COPY . .
 RUN dotnet build "VasuDocker/VasuDocker.csproj" -c Release -o /app/build
 
 FROM build AS publish
