@@ -1,0 +1,59 @@
+C:\Users\vasu\Desktop\Docker Projects\VasuDocker\VasuDocker2\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\vasu\Desktop\Docker Projects\VasuDocker\VasuDocker2\bin\Debug\net6.0\appsettings.json
+C:\Users\vasu\Desktop\Docker Projects\VasuDocker\VasuDocker2\bin\Debug\net6.0\VasuDocker2.exe
+C:\Users\vasu\Desktop\Docker Projects\VasuDocker\VasuDocker2\bin\Debug\net6.0\VasuDocker2.deps.json
+C:\Users\vasu\Desktop\Docker Projects\VasuDocker\VasuDocker2\bin\Debug\net6.0\VasuDocker2.runtimeconfig.json
+C:\Users\vasu\Desktop\Docker Projects\VasuDocker\VasuDocker2\bin\Debug\net6.0\VasuDocker2.dll
+C:\Users\vasu\Desktop\Docker Projects\VasuDocker\VasuDocker2\bin\Debug\net6.0\VasuDocker2.pdb
+C:\Users\vasu\Desktop\Docker Projects\VasuDocker\VasuDocker2\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\vasu\Desktop\Docker Projects\VasuDocker\VasuDocker2\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\vasu\Desktop\Docker Projects\VasuDocker\VasuDocker2\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\vasu\Desktop\Docker Projects\VasuDocker\VasuDocker2\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\vasu\Desktop\Docker Projects\VasuDocker\VasuDocker2\obj\Debug\net6.0\VasuDocker2.csproj.AssemblyReference.cache
+C:\Users\vasu\Desktop\Docker Projects\VasuDocker\VasuDocker2\obj\Debug\net6.0\VasuDocker2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vasu\Desktop\Docker Projects\VasuDocker\VasuDocker2\obj\Debug\net6.0\VasuDocker2.AssemblyInfoInputs.cache
+C:\Users\vasu\Desktop\Docker Projects\VasuDocker\VasuDocker2\obj\Debug\net6.0\VasuDocker2.AssemblyInfo.cs
+C:\Users\vasu\Desktop\Docker Projects\VasuDocker\VasuDocker2\obj\Debug\net6.0\VasuDocker2.csproj.CoreCompileInputs.cache
+C:\Users\vasu\Desktop\Docker Projects\VasuDocker\VasuDocker2\obj\Debug\net6.0\VasuDocker2.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\vasu\Desktop\Docker Projects\VasuDocker\VasuDocker2\obj\Debug\net6.0\VasuDocker2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vasu\Desktop\Docker Projects\VasuDocker\VasuDocker2\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\vasu\Desktop\Docker Projects\VasuDocker\VasuDocker2\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\vasu\Desktop\Docker Projects\VasuDocker\VasuDocker2\obj\Debug\net6.0\scopedcss\bundle\VasuDocker2.styles.css
+C:\Users\vasu\Desktop\Docker Projects\VasuDocker\VasuDocker2\obj\Debug\net6.0\VasuDocker2.csproj.CopyComplete
+C:\Users\vasu\Desktop\Docker Projects\VasuDocker\VasuDocker2\obj\Debug\net6.0\VasuDocker2.dll
+C:\Users\vasu\Desktop\Docker Projects\VasuDocker\VasuDocker2\obj\Debug\net6.0\refint\VasuDocker2.dll
+C:\Users\vasu\Desktop\Docker Projects\VasuDocker\VasuDocker2\obj\Debug\net6.0\VasuDocker2.pdb
+C:\Users\vasu\Desktop\Docker Projects\VasuDocker\VasuDocker2\obj\Debug\net6.0\VasuDocker2.genruntimeconfig.cache
+C:\Users\vasu\Desktop\Docker Projects\VasuDocker\VasuDocker2\obj\Debug\net6.0\ref\VasuDocker2.dll
+C:\Users\vishn\OneDrive\Desktop\Git\Docker-Projects\VasuDocker\VasuDocker2\obj\Debug\net6.0\VasuDocker2.csproj.AssemblyReference.cache
+C:\Users\vishn\OneDrive\Desktop\Git\Docker-Projects\VasuDocker\VasuDocker2\obj\Debug\net6.0\VasuDocker2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vishn\OneDrive\Desktop\Git\Docker-Projects\VasuDocker\VasuDocker2\obj\Debug\net6.0\VasuDocker2.AssemblyInfoInputs.cache
+C:\Users\vishn\OneDrive\Desktop\Git\Docker-Projects\VasuDocker\VasuDocker2\obj\Debug\net6.0\VasuDocker2.AssemblyInfo.cs
+C:\Users\vishn\OneDrive\Desktop\Git\Docker-Projects\VasuDocker\VasuDocker2\obj\Debug\net6.0\VasuDocker2.csproj.CoreCompileInputs.cache
+C:\Users\vishn\OneDrive\Desktop\Git\Docker-Projects\VasuDocker\VasuDocker2\obj\Debug\net6.0\VasuDocker2.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\vishn\OneDrive\Desktop\Git\Docker-Projects\VasuDocker\VasuDocker2\obj\Debug\net6.0\VasuDocker2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vishn\OneDrive\Desktop\Git\Docker-Projects\VasuDocker\VasuDocker2\obj\Debug\net6.0\VasuDocker2.dll
+C:\Users\vishn\OneDrive\Desktop\Git\Docker-Projects\VasuDocker\VasuDocker2\obj\Debug\net6.0\refint\VasuDocker2.dll
+C:\Users\vishn\OneDrive\Desktop\Git\Docker-Projects\VasuDocker\VasuDocker2\obj\Debug\net6.0\VasuDocker2.pdb
+C:\Users\vishn\OneDrive\Desktop\Git\Docker-Projects\VasuDocker\VasuDocker2\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\vishn\OneDrive\Desktop\Git\Docker-Projects\VasuDocker\VasuDocker2\bin\Debug\net6.0\appsettings.json
+C:\Users\vishn\OneDrive\Desktop\Git\Docker-Projects\VasuDocker\VasuDocker2\bin\Debug\net6.0\VasuDocker.deps.json
+C:\Users\vishn\OneDrive\Desktop\Git\Docker-Projects\VasuDocker\VasuDocker2\bin\Debug\net6.0\VasuDocker.runtimeconfig.json
+C:\Users\vishn\OneDrive\Desktop\Git\Docker-Projects\VasuDocker\VasuDocker2\bin\Debug\net6.0\VasuDocker.exe
+C:\Users\vishn\OneDrive\Desktop\Git\Docker-Projects\VasuDocker\VasuDocker2\bin\Debug\net6.0\VasuDocker2.exe
+C:\Users\vishn\OneDrive\Desktop\Git\Docker-Projects\VasuDocker\VasuDocker2\bin\Debug\net6.0\VasuDocker2.deps.json
+C:\Users\vishn\OneDrive\Desktop\Git\Docker-Projects\VasuDocker\VasuDocker2\bin\Debug\net6.0\VasuDocker2.runtimeconfig.json
+C:\Users\vishn\OneDrive\Desktop\Git\Docker-Projects\VasuDocker\VasuDocker2\bin\Debug\net6.0\VasuDocker2.dll
+C:\Users\vishn\OneDrive\Desktop\Git\Docker-Projects\VasuDocker\VasuDocker2\bin\Debug\net6.0\VasuDocker2.pdb
+C:\Users\vishn\OneDrive\Desktop\Git\Docker-Projects\VasuDocker\VasuDocker2\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\vishn\OneDrive\Desktop\Git\Docker-Projects\VasuDocker\VasuDocker2\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\vishn\OneDrive\Desktop\Git\Docker-Projects\VasuDocker\VasuDocker2\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\vishn\OneDrive\Desktop\Git\Docker-Projects\VasuDocker\VasuDocker2\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\vishn\OneDrive\Desktop\Git\Docker-Projects\VasuDocker\VasuDocker2\bin\Debug\net6.0\VasuDocker.dll
+C:\Users\vishn\OneDrive\Desktop\Git\Docker-Projects\VasuDocker\VasuDocker2\bin\Debug\net6.0\VasuDocker.pdb
+C:\Users\vishn\OneDrive\Desktop\Git\Docker-Projects\VasuDocker\VasuDocker2\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\vishn\OneDrive\Desktop\Git\Docker-Projects\VasuDocker\VasuDocker2\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\vishn\OneDrive\Desktop\Git\Docker-Projects\VasuDocker\VasuDocker2\obj\Debug\net6.0\scopedcss\bundle\VasuDocker2.styles.css
+C:\Users\vishn\OneDrive\Desktop\Git\Docker-Projects\VasuDocker\VasuDocker2\obj\Debug\net6.0\VasuDocker2.csproj.CopyComplete
+C:\Users\vishn\OneDrive\Desktop\Git\Docker-Projects\VasuDocker\VasuDocker2\obj\Debug\net6.0\VasuDocker2.genruntimeconfig.cache
+C:\Users\vishn\OneDrive\Desktop\Git\Docker-Projects\VasuDocker\VasuDocker2\obj\Debug\net6.0\ref\VasuDocker2.dll
