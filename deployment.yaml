@@ -1,0 +1,35 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: dockerdemo
+  labels:
+    app: dockerdemo
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: dockerdemo
+  template:
+    metadata:
+      labels:
+        app: dockerdemo
+    spec:
+      containers:
+      - name: dockerdemo
+        image: vasuklk/vasudocker
+        ports:
+        - containerPort: 80
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: dockerdemo
+spec:
+  selector:
+    app: dockerdemo
+  ports:
+    - protocol: TCP
+      port: 8000
+      targetPort: 80
+      nodePort: 30008
+  type: LoadBalancer
